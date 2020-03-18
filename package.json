@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvinashChavanN/Natours.git"
+  },
+  "author": "Avinash Chavan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvinashChavanN/Natours/issues"
+  },
+  "homepage": "https://github.com/AvinashChavanN/Natours#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
